@@ -22,7 +22,7 @@
   <string name="account_security_dialog_title">Sicherheitsupdate</string>
   <string name="account_security_policy_explanation_fmt">Der Server %s erfordert eine Freigabe, damit er einige Sicherheitfunktionen Ihres Androidgerätes steuern kann.</string>
   <string name="account_security_title">Gerätesicherheit</string>
-  <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3 und IMAP Einstellungen wechseln müssen, dann löschen Sie ihr Konto und erstellen ein neses mit den gewünschten Einstellungen.</string>
+  <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3 und IMAP Einstellungen wechseln müssen, dann löschen Sie Ihr Konto und erstellen ein Neues mit den gewünschten Einstellungen.</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
   <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit Wi-Fi</string>
@@ -63,8 +63,8 @@
   <string name="account_setup_account_type_title">Kontoeinrichtung</string>
   <string name="account_setup_address_label">E-Mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Bestätigen Sie, dass Benutzername, Passwort und Konto-Einstellungen korrekt sind.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">"Konnto konnte nicht eingerichtet werden"</string>
-  <string name="account_setup_basics_email_label">E-Mail-Addresse</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">"Konto konnte nicht eingerichtet werden"</string>
+  <string name="account_setup_basics_email_label">E-Mail Adresse</string>
   <string name="account_setup_basics_manual_setup_action">manuelle Einrichtung</string>
   <string name="account_setup_basics_password_label">Passwort</string>
   <string name="account_setup_basics_title">Konto hinzufügen</string>
@@ -73,7 +73,7 @@
   <string name="account_setup_check_settings_retr_info_msg">Abrufen von Kontoinformationen…</string>
   <string name="account_setup_correct_address_tips">E-Mail Adresse eingeben</string>
   <string name="account_setup_creating_account_msg">Erstelle Konto…</string>
-  <string name="account_setup_deleting_account_msg">Konto wird gelöschtt…</string>
+  <string name="account_setup_deleting_account_msg">Konto wird gelöscht…</string>
   <string name="account_setup_exchange_certificate_title">Clientzertifikat</string>
   <string name="account_setup_exchange_device_id_label">Telefon-ID</string>
   <string name="account_setup_exchange_no_certificate">Nichts</string>
@@ -95,7 +95,7 @@
   <string name="account_setup_failed_security_policies_unsupported">"Dieser Server erfordert Sicherheitsfunktionen, die Ihr Android-Gerät nicht unterstützt, einschließlich: %s"</string>
   <string name="account_setup_failed_tls_required">TLS erforderlich, aber nicht vom Server unterstützt.</string>
   <string name="account_setup_failed_too_many_partnerships">Fehler bei der Anmeldung, die maximale Anzahl der erlaubten Serververbindungen ist erreicht.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Wenn ich aus dem Papierkorb lösche</string>
   <string name="account_setup_incoming_delete_policy_never_label">Niemals</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP Pfadpräfix</string>
@@ -111,10 +111,10 @@
   <string name="account_setup_incoming_username_label">Benutzername</string>
   <string name="account_setup_incoming_username_label_default_hint">Sie können eine Domain einschließen</string>
   <string name="account_setup_need_password_verification">Ihr Konto besitzt sekundäre Kennwortauthentifizierung. Authentifizierung ist erforderlich.</string>
-  <string name="account_setup_options_mail_check_frequency_10min">Aller 10 Minuten</string>
-  <string name="account_setup_options_mail_check_frequency_12hour">Aller 12 Stunden</string>
+  <string name="account_setup_options_mail_check_frequency_10min">Alle 10 Minuten</string>
+  <string name="account_setup_options_mail_check_frequency_12hour">Alle 12 Stunden</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Jede Stunde</string>
-  <string name="account_setup_options_mail_check_frequency_4hour">Aller 4 Stunden</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">Alle 4 Stunden</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch (Push, wenn der Server dies unterstützt)</string>
   <string name="account_setup_options_mail_check_frequency_never">Niemals</string>
   <string name="account_setup_options_mail_check_frequency_push">Automatisch (Push)</string>
@@ -134,7 +134,7 @@
   <string name="account_setup_security_policies_required_fmt">Der Server %s erfordert eine Freigabe, damit er einige Sicherheitfunktionen Ihres Androidgerätes steuern kann. Möchten Sie die Einrichtung dieses Kontos beenden?</string>
   <string name="account_setup_security_required_title">Sichere Fernwartung</string>
   <string name="account_setup_server_acc_manager_title">Konten</string>
-  <string name="account_setup_username_password_toast">Geben Sie eine gültige E-Mailadresse und Passwort ein</string>
+  <string name="account_setup_username_password_toast">Geben Sie eine gültige E-Mail Adresse und Passwort ein</string>
   <string name="account_sync_off">Kontosynchronisation ist ausgeschalten.</string>
   <string name="account_waiting_for_folders_msg">Lädt Ordner…</string>
   <string name="actionbar_large_unread_count">%1$d+ ungelesene</string>
@@ -181,7 +181,7 @@
   <string name="attachment_open_SecurityException_title">Fehler beim öffnen der Datei</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
-  <string name="attachment_type_blocked">"LEider könen Sie diese Art des Anhangs nicht speichern oder öffnen."</string>
+  <string name="attachment_type_blocked">"Leider können Sie diese Art des Anhangs nicht speichern oder öffnen."</string>
   <string name="attachment_unknown">%s Datei</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Anhänge</string>
@@ -202,7 +202,7 @@
   <string name="bytes">%s B</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_action">Abbrechen</string>
-  <string name="cant_move_or_change_labels">"Kann nicht bewegt werden, Auswahl enthällt mehrere Konten."</string>
+  <string name="cant_move_or_change_labels">"Kann nicht bewegt werden, Auswahl enthält mehrere Konten."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
@@ -225,7 +225,7 @@
   <string name="colon">:</string>
   <string name="compose">Verfasssen</string>
   <string name="compose_attachment_number_limit">Die Anzahl an Anhängen darf 10 nicht überschreiten!</string>
-  <string name="compose_picturesexceedlimits">Die Anzahl an eingebetteten Bildern darf 5 nicht überschreiten!</string>
+  <string name="compose_picturesexceedlimits">Die Anzahl an eingebetteten Bilder darf 5 nicht überschreiten!</string>
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
   <string name="confirm">OK</string>
@@ -291,7 +291,7 @@
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktiviere</string>
-  <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
+  <string name="device_activity_lint_str">Aktivieren Sie mail-Service komplett Update und aktivieren Sie die Sicherheitseinstellungen</string>
   <string name="device_admin_description">Aktiviert vom Server angegebene Sicherheitsrichtlinien</string>
   <string name="device_admin_label">E-Mail</string>
   <string name="device_not_activiey_lint1">Geräte-Manager nicht aktiviert</string>
@@ -311,7 +311,7 @@
   <string name="donot_disturb_starttime_title">Von</string>
   <string name="donot_disturb_summary">Benachrichtigungen für E-Mails, die eintreffen, werden stumm geschaltet werden</string>
   <string name="donot_disturb_title">Bitte nicht stören</string>
-  <string name="downlaod_cancel_confirm_download">Stop</string>
+  <string name="downlaod_cancel_confirm_download">Stopp</string>
   <string name="downlaod_cancel_continue_download">"Nicht anhalten"</string>
   <string name="downlaod_confirm_download">Download</string>
   <string name="downlaod_nonWifi_confirm_message">Verwende mobile Datenverbindung, um diese Anlage herunterzuladen?</string>
@@ -425,7 +425,7 @@
   <string name="ignore_spam_warning">Ignorieren, ich vertraue dieser Nachricht</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Passwort für den Posteingangsserver ist falsch</string>
-  <string name="inline_picture_deleted">Herunterladen fehlender Bild…</string>
+  <string name="inline_picture_deleted">Herunterladen fehlender Bilder…</string>
   <string name="input_password_prompt">Geben Sie Ihr Passwort ein</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
@@ -520,13 +520,13 @@
   <string name="message_view_attachment_background_load">Eine oder mehrere Anlagen in Ihren weitergeleiteten Nachrichten wird vor dem Senden heruntergeladen werden.</string>
   <string name="mibill_privacy_policy_button1">"Nicht einverstanden"</string>
   <string name="mibill_privacy_policy_button2">Einverstanden</string>
-  <string name="mibill_privacy_policy_description">Erlauben Mi Wallet der Analyse und automatische Verwaltung Ihrer Rechnungen. Diese Funktion ist standardmäßig für arbeitsbezogene E-Mail Adressen ausgeschaltet.</string>
+  <string name="mibill_privacy_policy_description">Erlaube Mi Wallet die Analyse und automatische Verwaltung Ihrer Rechnungen. Diese Funktion ist standardmäßig für arbeitsbezogene E-Mail Adressen ausgeschaltet.</string>
   <string name="mibill_privacy_policy_link">"Durch Verwendung dieser Funktion, stimmen Sie unseren "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Nutzungsbedingungen&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Rechnungen automatisch verwalten</string>
   <string name="more_atts_remaining">%1$d weitere verbleiben</string>
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
-  <string name="move_to_selection_dialog_title">Verschiebe in einem anderen Ordner</string>
+  <string name="move_to_selection_dialog_title">Verschiebe in einen anderen Ordner</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Stumm</string>
   <string name="network_error">Keine Verbindung</string>
@@ -596,10 +596,10 @@
   <string name="perference_setup_send_tag">Mailausgangsserver</string>
   <string name="permission_access_provider_desc">Ermöglicht der App auf Ihre E-Mail, Benutzernamen und Kennwörter zuzugreifen</string>
   <string name="permission_access_provider_label">Zugriff Benutzerdaten</string>
-  <string name="permission_read_attachment_desc">"Ermöglicht des App Ihre E-Mail Anhänge zu lesen"</string>
+  <string name="permission_read_attachment_desc">"Ermöglicht der App Ihre E-Mail Anhänge zu lesen"</string>
   <string name="permission_read_attachment_label">Anhänge lesen</string>
   <string name="phone">Telefon</string>
-  <string name="photo_load_failed">"Bild konnte nicht geladen"</string>
+  <string name="photo_load_failed">"Bild konnte nicht geladen werden"</string>
   <string name="photo_view_count" formatted="false">%d von %d</string>
   <string name="please_fill_in_your_mailbox_information2">Eingabe Mailbox Info</string>
   <string name="policy_app_blacklist">Bestimmte Apps verbieten</string>
@@ -618,7 +618,7 @@
   <string name="policy_dont_allow_text_messaging">"Erlaube keine SMS-Nachrichten"</string>
   <string name="policy_dont_allow_unsigned_apps">"Unsignierte Apps nicht zulassen"</string>
   <string name="policy_dont_allow_unsigned_installers">"Unsignierte Appinstaller nicht erlauben"</string>
-  <string name="policy_dont_allow_wifi">"Wi-Fi nicht erlauben"</string>
+  <string name="policy_dont_allow_wifi">"WLAN nicht erlauben"</string>
   <string name="policy_email_age">Begrenze die Anzahl von E-Mails, welche synchronisiert werden</string>
   <string name="policy_html_truncation">Beschränke HTML-E-Mail Größe</string>
   <string name="policy_password_expiration">Ablauf von Passwörtern einstellen</string>
@@ -647,16 +647,16 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
-  <string name="pull_to_refresh">Zum aktualisieren nach unten ziehen</string>
+  <string name="pull_to_refresh">Zum Aktualisieren nach unten ziehen</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Nicht jetzt</string>
-  <string name="push_wps_better_confirm_message">Versuchen Sie WPS Office um dieses Anhang zu öffnen.</string>
+  <string name="push_wps_better_confirm_message">Testen Sie WPS Office, um dieses Anhang zu öffnen.</string>
   <string name="push_wps_better_confirm_noshow_hint">"Nicht mehr anzeigen"</string>
-  <string name="push_wps_better_confirm_title">Versuche WPS Office</string>
+  <string name="push_wps_better_confirm_title">Testen Sie WPS Office</string>
   <string name="push_wps_confirm_cancel">Jetzt nicht</string>
   <string name="push_wps_confirm_download">Download</string>
-  <string name="push_wps_confirm_message">Versuchen Sie WPS Office um dieses Anhang zu öffnen.</string>
-  <string name="push_wps_confirm_title">Versuche WPS Office</string>
+  <string name="push_wps_confirm_message">Testen Sie WPS Office, um diesen Anhang zu öffnen.</string>
+  <string name="push_wps_confirm_title">Testen Sie WPS Office</string>
   <string name="push_wps_no_response_app">Keine Anwendung gefunden, um diese Aktion auszuführen</string>
   <string name="quick_1">Danke!</string>
   <string name="quick_2">Klingt gut für mich!</string>
@@ -698,13 +698,13 @@
   <string name="refresh">Aktualisieren</string>
   <string name="refreshing">Aktualisiere…</string>
   <string name="refreshing_done">Fertig</string>
-  <string name="release_to_refresh">Loslassen zum aktualisieren</string>
+  <string name="release_to_refresh">Loslassen zum Aktualisieren</string>
   <string name="remote_search_result">%s Ergebnisse auf dem Server</string>
   <string name="remove_account">Konto entfernen</string>
   <string name="remove_account_confirm">\"%1$s\" wird vom E-Mail entfernt werden.</string>
   <string name="remove_account_confirm_title">Konto entfernen</string>
   <string name="remove_folder">Entfernen von %1$s</string>
-  <string name="remove_star">Unstar</string>
+  <string name="remove_star">Markierung aufheben</string>
   <string name="reply">Antworten</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
@@ -804,11 +804,11 @@
   <string name="too_large_to_attach_additional">"Dateigröße darf nicht größer sein als %1$s."</string>
   <string name="too_large_to_attach_multiple">"Eine oder mehrere Dateien wurden nicht angehängt. Größe darf nicht größer als %1$s sein."</string>
   <string name="too_large_to_attach_single">"Kann Datei nicht anhängen mit %1$s."</string>
-  <string name="trash_folder_selection_title">Wählen Sie die Serverpapierkorb für %s</string>
+  <string name="trash_folder_selection_title">Wählen Sie den Serverpapierkorb für %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
-  <string name="turn_auto_sync_on_dialog_body">Änderungen, welche Sie an allen Anwendungen und Konten, nicht nur Gmail tätigen, werden zwischen dem Internet, ihren anderen Geräten und ihrem %1$s synchronisiert.</string>
+  <string name="turn_auto_sync_on_dialog_body">Änderungen, welche Sie an allen Anwendungen und Konten, nicht nur Gmail tätigen, werden zwischen dem Internet, Ihren anderen Geräten und Ihrem %1$s synchronisiert.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Einschalten</string>
   <string name="turn_auto_sync_on_dialog_title">Automatische Synchronisation einschalten?</string>
   <string name="undo">Rückgängig</string>
@@ -831,7 +831,7 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Weitere Gespräche</string>
-  <string name="wait_for_manual_sync_body">"Dieses Konto ist nicht für die automatische Synchronisierung festlegen.
+  <string name="wait_for_manual_sync_body">"Dieses Konto ist nicht für die automatische Synchronisierung festgelegt.
 Tippen Sie "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um E-Mails einmal zu synchronisieren, oder &lt;b&gt;Ändere Synchronisationseinstellungen&lt;/b&gt; zum Einrichten dieses Konto, um E-Mails automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Warten auf Synchronisierung</string>
   <string name="widget_all_mail">Alle E-Mails</string>
