@@ -684,14 +684,14 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="color_orange">Orange</string>
   <string name="color_purple">Lila</string>
   <string name="color_red">Rot</string>
-  <string name="color_unspecified">Default</string>
+  <string name="color_unspecified">Standard</string>
   <string name="color_white">Weiß</string>
   <string name="color_yellow">Gelb</string>
   <string name="common_settings">Allgemein</string>
   <string name="complete_settings">Erweitert</string>
   <string name="computing_size">Berechnung...</string>
   <string name="condition_provider_security_warning_summary">%1$s wird in der Lage sein, Ausgangsbedingungen im Bitte-nicht-Stören-Modus hinzuzufügen.</string>
-  <string name="condition_provider_security_warning_title">Enable %1$s?</string>
+  <string name="condition_provider_security_warning_title">Aktiviere %1$s?</string>
   <string name="config_charging_function_name">lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
   <string name="config_mass_storage_function_name">Massenspeicher</string>
@@ -730,7 +730,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="credentials_reset_warning">Falsches Passwort. Sie haben noch einen Versuch, bevor Ihr Anmeldedatenspeicher gelöscht wird.</string>
   <string name="credentials_reset_warning_plural">Falsches Passwort. Sie haben noch %1$d Versuche, bevor Ihr Anmeldedatenspeicher gelöscht wird.</string>
   <string name="credentials_settings_not_available">Anmeldedaten sind nicht für diesen Benutzer verfügbar</string>
-  <string name="credentials_title">Anmeldedaten-Speicher</string>
+  <string name="credentials_title">Anmeldedatenspeicher</string>
   <string name="credentials_unlock" />
   <string name="credentials_unlock_hint">Geben Sie das Passwort für den Anmeldedatenspeicher ein.</string>
   <string name="credentials_wrong_password">Falsches Passwort</string>
@@ -742,17 +742,17 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
 
 Um Ihr Handy wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
-  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladene Apps und deren Daten, Medien und andere Dateien entschlüsseln. Nachdem Sie Ihr Handy entschlüsselt haben, vorausgesetzt Sie haben eine Bildschirmsperre (das wären ein Muster, eine numerische PIN oder Passwort) eingerichtet, müssen Sie den Bildschirm entsperren, um das Handy, jedesmal wenn Sie es anschalten, zu entschlüsseln. Die einzig andere Möglichkeit es zu entschlüsseln ist es auf Werkszustand zurückzusetzen, was alle Ihre Daten löscht.
+  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladenen Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
 
-Verschlüsselung dauert eine Stunde oder mehr. Sie müssen,  während des gesamten Prozesses, mit einem aufgeladenen Akku beginnen und Ihr Handy angeschlossen lassen. Wenn Sie das unterbrechen, werden Sie einige oder alle Daten verlieren."</string>
-  <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine Sperrbildschirm-PIN oder Passwort festlegen, bevor Sie die Verschlüsselung starten können.</string>
-  <string name="crypt_keeper_dialog_need_password_title">Kein Sperrbildschirm-PIN oder Passwort</string>
-  <string name="crypt_keeper_encrypt_title">Handy verschlüsseln</string>
+Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
+  <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine PIN oder ein Passwort für die Bildschirmsperre festlegen, bevor Sie die Verschlüsselung starten können.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Keine PIN oder kein Passwort für Bildschirmsperre</string>
+  <string name="crypt_keeper_encrypt_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
-  <string name="crypt_keeper_enter_password">Ihr Passwort eingeben</string>
-  <string name="crypt_keeper_failed_summary">"Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Infolgedessen sind die Daten auf dem Telefon nicht mehr zugänglich. 
+  <string name="crypt_keeper_enter_password">Passwort eingeben</string>
+  <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
 
-Um Ihr Telefon wieder verwenden zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Handy nach dem Reset wieder einstellen, dann haben Sie die Möglichkeit alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
+Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, in Ihrem Google-Konto wiederherstellen."</string>
  <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">"Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet."</string>
   <string name="crypt_keeper_low_charge_text">Laden Sie Ihren Akku auf und versuchen Sie es erneut.</string>
@@ -813,7 +813,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_limit_editor_title">Limit festlegen</string>
   <string name="data_usage_list_mobile">Mobil</string>
   <string name="data_usage_list_none">Keine</string>
-  <string name="data_usage_menu_allow_background">Hintergrunddaten erlauben</string>
+  <string name="data_usage_menu_allow_background">Hintergrunddaten ermöglichen</string>
   <string name="data_usage_menu_auto_sync">Auto-synce Daten</string>
   <string name="data_usage_menu_cellular_networks">Mobilfunknetze</string>
   <string name="data_usage_menu_hide_ethernet">Ethernet Verbrauch ausblenden</string>
@@ -867,7 +867,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="date_time_date_format">Datumsformat auswählen</string>
   <string name="date_time_date_format_title">Datumsformat</string>
   <string name="date_time_set_date">Datum festlegen</string>
-  <string name="date_time_set_date_title">Date</string>
+  <string name="date_time_set_date_title">Datum</string>
   <string name="date_time_set_time">Uhrzeit festlegen</string>
   <string name="date_time_set_time_title">Zeit</string>
   <string name="date_time_set_timezone">Zeitzone auswählen</string>
@@ -3652,15 +3652,15 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_option_miui_vibrate">Do not disturb</string>
   <string name="zen_mode_option_no_interruptions">"Don't interrupt"</string>
   <string name="zen_mode_option_off">Always interrupt</string>
-  <string name="zen_mode_option_title">When calls and notifications arrive</string>
-  <string name="zen_mode_option_title_novoice">When notifications arrive</string>
-  <string name="zen_mode_phone_calls">Calls</string>
-  <string name="zen_mode_settings_title">Interruptions</string>
+  <string name="zen_mode_option_title">Beim Eintreffen der Anrufe und Benachrichtigungen</string>
+  <string name="zen_mode_option_title_novoice">Wenn Benachrichtigungen eintreffen</string>
+  <string name="zen_mode_phone_calls">Anrufe</string>
+  <string name="zen_mode_settings_title">Unterbrechungen</string>
   <string name="zen_mode_start_time">Start time</string>
-  <string name="zen_mode_when">Automatically turn on</string>
-  <string name="zen_mode_when_every_night">Every night</string>
-  <string name="zen_mode_when_never">Never</string>
-  <string name="zen_mode_when_weeknights">Weeknights</string>
+  <string name="zen_mode_when">Automatisch einschalten</string>
+  <string name="zen_mode_when_every_night">Jede Nacht</string>
+  <string name="zen_mode_when_never">Nie</string>
+  <string name="zen_mode_when_weeknights">Wochentagen</string>
   <string name="zone_auto">Automatische Zeitzone</string>
   <string name="zone_auto_summaryOff">Vom Mobilnetz angegebene Zeitzone beibehalten</string>
   <string name="zone_auto_summaryOn">Vom Mobilnetz angegebene Zeitzone beibehalten</string>
